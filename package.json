@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "express warmup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshehadi/friendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bshehadi/friendFinder/issues"
+  },
+  "homepage": "https://github.com/bshehadi/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
